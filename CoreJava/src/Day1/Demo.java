@@ -6,6 +6,7 @@ public class Demo {
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Enter the values:");
+		
 		int a = sc.nextInt();
 		
 		int b = sc.nextInt();
