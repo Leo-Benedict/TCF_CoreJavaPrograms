@@ -2,7 +2,7 @@ package JAVABASICS;
 
 public class DataTypesExample {
     public static void main(String[] args) {
-        // Primitive Data Types
+     
         int age = 25;
         float salary = 45000.50f;
         double height = 5.9;
