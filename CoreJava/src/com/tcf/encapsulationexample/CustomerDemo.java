@@ -10,11 +10,8 @@ public class CustomerDemo {
         System.out.println(c1);
         //object printing invoke toString()
 
-        Customer c2=new Customer();
-        c2.setCid(102);
-        c2.setName("Niraimathy");
-        c2.setCity("Chennai");
-
+        Customer c2 = new Customer ();
+       
         System.out.println(c2);
 
         Customer c3=new Customer();
